@@ -1,0 +1,11 @@
+Enter your guess: 45
+Too high! Try again.
+Enter your guess: 35
+Too low! Try again.
+Enter your guess: 40
+Too high! Try again.
+Enter your guess: 36
+Congratulations! You guessed the number in 4 attempts.
+Do you want to play again? (yes/no): n
+Game over. Rounds played: 1
+Your average attempts per round: 4.0
